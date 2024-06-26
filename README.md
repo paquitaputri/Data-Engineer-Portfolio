@@ -7,11 +7,11 @@ Halo! My name is Paquita Putri Ramadhani, in this repository I will share severa
 * **Technology used : Python, Django, PostgreSQL**
   
 
-## [Data Analysis of European Football Database using SQLite and Python (Dataset from 2008 - 2015)] (https://github.com/paquitaputri/European-Football-Data-Analysis/tree/main)
+## [Data Analysis of European Football Database using SQLite and Python] (https://github.com/paquitaputri/European-Football-Data-Analysis)
 * Brief overview : Exploratory Data Analysis from the European Football Database (data period 2008 - 2015)
 * **Technology used : SQLite, NumPy, Matplotlib, and Pandas**
 
 
-## [Text Classification on the Instagram caption Using Support Vector Machine] (https://github.com/paquitaputri/Text-Classification-with-SVM/tree/main)
-* Text classification to categorizing Instagram caption with Support Vector Machine algorithm and TF-IDF method. 
+## [Text Classification on the Instagram caption Using Support Vector Machine] (https://github.com/paquitaputri/Text-Classification-with-SVM)
+* Brief overview : Text classification to categorizing Instagram caption with Support Vector Machine algorithm and TF-IDF method. 
 * **Technology used: Python and Scikit-learn**
